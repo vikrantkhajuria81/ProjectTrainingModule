@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "Hello@123",
+      "id": 1
+    },
+    {
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "Hello@123",
+      "id": 2
+    },
+    {
+      "name": "himanshu",
+      "email": "himansu@gmailc.om",
+      "password": "him@123",
+      "id": 3
+    },
+    {
+      "name": "jim",
+      "email": "jim@gmail.com",
+      "password": "jim123",
+      "id": 4
+    },
+    {
+      "name": "Monika",
+      "email": "Monika123@gmail.com",
+      "password": "Mon@123",
+      "id": 5
+    },
+    {
+      "name": "div",
+      "email": "div@gmail.com",
+      "password": "dic123",
+      "id": 6
+    },
+    {
+      "name": "tanu",
+      "email": "tanu@gmail.com",
+      "password": "tanu@1234",
+      "id": 7
+    }
+  ],
+  "employee": [
+    {
+      "name": "hshds",
+      "address": "dsahj",
+      "contact": 7678,
+      "id": 1
+    }
+  ]
+}
