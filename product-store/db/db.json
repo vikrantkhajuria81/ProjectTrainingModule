@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "iPhone X1",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 8999,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 50,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/2/1.jpg",
+        "https://i.dummyjson.com/data/products/2/2.jpg",
+        "https://i.dummyjson.com/data/products/2/3.jpg",
+        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Samsung Universe 10",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+    },
+    {
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021",
+      "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "price": 280,
+      "category": "smartphones",
+      "brand": "OPPO123",
+      "stock": 123,
+      "rating": 4.3,
+      "discountPercentage": 17.91,
+      "id": 4
+    },
+    {
+      "title": "Nokia",
+      "description": "This is nokia new generation with lots of new feature",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "price": 20000,
+      "category": "Mobile Phone",
+      "brand": "Nokia",
+      "stock": 100,
+      "rating": 5,
+      "discountPercentage": 5,
+      "id": 5
+    }
+  ]
+}
